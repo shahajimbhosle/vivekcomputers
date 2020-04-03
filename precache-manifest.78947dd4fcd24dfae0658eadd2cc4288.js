@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7120d4ce469fb529b07fb641c47bf10b",
+    "revision": "1887a699b21ecf1794405c007e2d18db",
     "url": "/vivekcomputers/index.html"
   },
   {
-    "revision": "84008ebb1e5c89d03ed3",
+    "revision": "88c6749716d3516844c2",
     "url": "/vivekcomputers/static/css/main.94b653af.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vivekcomputers/static/js/2.3784b2f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84008ebb1e5c89d03ed3",
-    "url": "/vivekcomputers/static/js/main.90e03364.chunk.js"
+    "revision": "88c6749716d3516844c2",
+    "url": "/vivekcomputers/static/js/main.396edb1e.chunk.js"
   },
   {
     "revision": "f82f8dbef84acdfa8912",

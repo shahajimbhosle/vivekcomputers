@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vivekcomputers/precache-manifest.f724b599435abf8835c94ac1c85a865e.js"
+  "/vivekcomputers/precache-manifest.78947dd4fcd24dfae0658eadd2cc4288.js"
 );
 
 self.addEventListener('message', (event) => {
