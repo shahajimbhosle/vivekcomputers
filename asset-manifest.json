@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vivekcomputers/static/css/main.94b653af.chunk.css",
+    "main.js": "/vivekcomputers/static/js/main.90e03364.chunk.js",
+    "main.js.map": "/vivekcomputers/static/js/main.90e03364.chunk.js.map",
+    "runtime-main.js": "/vivekcomputers/static/js/runtime-main.31d5ab75.js",
+    "runtime-main.js.map": "/vivekcomputers/static/js/runtime-main.31d5ab75.js.map",
+    "static/js/2.3784b2f4.chunk.js": "/vivekcomputers/static/js/2.3784b2f4.chunk.js",
+    "static/js/2.3784b2f4.chunk.js.map": "/vivekcomputers/static/js/2.3784b2f4.chunk.js.map",
+    "index.html": "/vivekcomputers/index.html",
+    "precache-manifest.f724b599435abf8835c94ac1c85a865e.js": "/vivekcomputers/precache-manifest.f724b599435abf8835c94ac1c85a865e.js",
+    "service-worker.js": "/vivekcomputers/service-worker.js",
+    "static/css/main.94b653af.chunk.css.map": "/vivekcomputers/static/css/main.94b653af.chunk.css.map",
+    "static/js/2.3784b2f4.chunk.js.LICENSE.txt": "/vivekcomputers/static/js/2.3784b2f4.chunk.js.LICENSE.txt",
+    "static/media/computer.jpg": "/vivekcomputers/static/media/computer.eb89e97a.jpg",
+    "static/media/cyclist.gif": "/vivekcomputers/static/media/cyclist.4421150a.gif",
+    "static/media/footer_bg.png": "/vivekcomputers/static/media/footer_bg.1dbfc1dd.png",
+    "static/media/logo.jpg": "/vivekcomputers/static/media/logo.48c29b7d.jpg",
+    "static/media/volks.gif": "/vivekcomputers/static/media/volks.4184b68d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d5ab75.js",
+    "static/js/2.3784b2f4.chunk.js",
+    "static/css/main.94b653af.chunk.css",
+    "static/js/main.90e03364.chunk.js"
+  ]
+}
