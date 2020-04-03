@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1887a699b21ecf1794405c007e2d18db",
+    "revision": "6cb88ffb4d14369ec916598a23372a26",
     "url": "/vivekcomputers/index.html"
   },
   {
-    "revision": "88c6749716d3516844c2",
+    "revision": "5130705586cf928804e2",
     "url": "/vivekcomputers/static/css/main.94b653af.chunk.css"
   },
   {
-    "revision": "9c45f0422623e3bbe607",
-    "url": "/vivekcomputers/static/js/2.3784b2f4.chunk.js"
+    "revision": "ce26667149b5b9a43dc6",
+    "url": "/vivekcomputers/static/js/2.6f9d6e6c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/vivekcomputers/static/js/2.3784b2f4.chunk.js.LICENSE.txt"
+    "url": "/vivekcomputers/static/js/2.6f9d6e6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88c6749716d3516844c2",
-    "url": "/vivekcomputers/static/js/main.396edb1e.chunk.js"
+    "revision": "5130705586cf928804e2",
+    "url": "/vivekcomputers/static/js/main.536da329.chunk.js"
   },
   {
     "revision": "f82f8dbef84acdfa8912",
